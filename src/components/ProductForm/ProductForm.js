@@ -20,7 +20,7 @@ const ProductForm = ({
     console.log('Summary')
     console.log('==============')
     console.log('Name: ' + title)
-    console.log('Price: ' + getPrice())
+    console.log('Price: ' + getPrice)
     console.log('Size: ' + currentSize)
     console.log('Color: ' + currentColor)
   }
